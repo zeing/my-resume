@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Public Site
+[https://zeing-resume.netlify.com/](https://zeing-resume.netlify.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
