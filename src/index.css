@@ -6138,12 +6138,29 @@ code {
 .page {
   margin: 0 auto;
   width: 100%;
+  background-color: beige;
 }
 
 @media (min-width: 768px) {
   .page {
     margin: 0 auto;
     width: 992px;
+  }
+}
+
+.date-range {
+  padding-bottom: 1rem;
+  padding-top: 0;
+  width: 100%;
+  text-align: left;
+}
+
+@media (min-width: 576px) {
+  .date-range {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    width: 50%;
+    text-align: right;
   }
 }
 

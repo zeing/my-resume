@@ -19,8 +19,8 @@ code {
 .page {
   margin: 0 auto;
   width: 100%;
+  background-color: beige
 }
-
 
 @screen md {
   .page {
@@ -28,6 +28,16 @@ code {
     width: 992px;
   }  
 }
+
+.date-range {
+  @apply .pb-4 .pt-0 .w-full  .text-left 
+}
+@screen sm {
+  .date-range {
+    @apply pb-4 pt-4 w-1/2 text-right
+  }  
+}
+
 
 p {
   @apply py-2

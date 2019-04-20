@@ -7,22 +7,18 @@ class Profile extends Component {
         <p className="font-bold">Witthawin Sirisiwaphak</p>
         <p className="font-bold">Fullstack Developer</p>
         <div className="flex flex-wrap w-full mb-8">
-          <div className="w-full mb-4">
+          <div className="w-full my-2">
             <span className="pr-4">Email</span>
             <span className="">zeing@outlook.com</span>
           </div>
-          <div className="w-full">
+          <div className="w-full my-2">
             <span className="pr-4">Address</span>
             <span className="">Trat, Thailand</span>
           </div>      
         </div>
         <h1 className="title" >Profile</h1>
         <span>
-        I like to solve problem and learn new things.
-
-        And I like to share knowledge when I learn new things
-
-        I am happy when I develop and maintain some products that can solve real problem.
+        I love coding :S
         </span>
 
 
