@@ -14,12 +14,12 @@ class Profile extends Component {
           <div className="w-full my-2">
             <span className="pr-4">Address</span>
             <span className="">Trat, Thailand</span>
-          </div>      
+          </div>
           <div className="flex justify-between w-1/2">
-            <a href="http://www.fb.com/einguht" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook text-4xl text-blue-dark"></i></a>
-            <a href="http://line.me/ti/p/~zeing" target="_blank" rel="noopener noreferrer"><i class="fab fa-line text-4xl text-green-dark"></i></a>
-            <a href="http://m.me/einguht" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-messenger text-4xl text-blue-dark"></i></a>
-            
+            <a href="http://www.fb.com/einguht" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook text-4xl text-blue-dark"></i></a>
+            <a href="http://line.me/ti/p/~zeing" target="_blank" rel="noopener noreferrer"><i className="fab fa-line text-4xl text-green-dark"></i></a>
+            <a href="http://m.me/einguht" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-messenger text-4xl text-blue-dark"></i></a>
+
           </div>
         </div>
         <h1 className="title" >Profile</h1>

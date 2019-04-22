@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
 import Profile from './components/Profile';
 import TechnicalSkills from './components/TechnicalSkills';
 import Experience from './components/Experience';
